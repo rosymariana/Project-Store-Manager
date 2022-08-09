@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do Projeto Store Manager! 
+# Projeto Store Manager! 
 
 # Objetivo
 
